@@ -1,0 +1,8 @@
+16179,MS MQ EXPRESS,Chennai Egmore,Mannargudi,04:15,22:55
+16159,MS MAQ EXP,Chennai Egmore,Mangalore Central ,06:05,23:15
+12653,ROCKFORT SF EXP,Chennai Egmore,Tiruchchirappalli jn,04:35,23:35
+16102,QLN MS EXPRESS,Kollam jn,Chennai Egmore,03:05,21:00
+12653,ROCKFORT SF EXP,Chennai Egmore,Tiruchchirappalli jn,23:35,19:00
+22661,Rameshwaram exp,Chennai Egmore,Mandapam,06:30,17:45
+22676,CHOZAN SF EXP,Tiruchchirappalli jn,Chennai Egmore,18:15,12:00
+16865,UZHAVANSE EXPRESS,Chennai Egmore,Thanjavuuur,20:25,15:00
