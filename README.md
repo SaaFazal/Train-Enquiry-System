@@ -170,6 +170,7 @@ tests showing positive outcomes while others had negative or inconclusive
 results. But in the end, I managed to pass everything.
 
 ![img_2.png](img_2.png)
+
 #Critique:
 
 WHAT WORKED:
