@@ -160,8 +160,14 @@ username and password. Then it will store the details in the "Access.txt" file.
 
 ## USE CASE DIAGRAM
 ![img.png](img.png)
+![image](https://olympuss.ntu.ac.uk/storage/user/1786/files/db9fee66-a098-4835-9080-59ef76e306d1)
+
+
+
 ## CLASS DIAGRAM
 ![img_1.png](img_1.png)
+![image](https://olympuss.ntu.ac.uk/storage/user/1786/files/7a0c0a16-881a-4969-b427-f2f7673d6378)
+
 
 #Testing:
 Various numbers of tests were gone through, and here are the noted 
@@ -170,6 +176,7 @@ tests showing positive outcomes while others had negative or inconclusive
 results. But in the end, I managed to pass everything.
 
 ![img_2.png](img_2.png)
+![image](https://olympuss.ntu.ac.uk/storage/user/1786/files/c0fcc43d-def3-45dd-9629-28f5a3bc8663)
 
 #Critique:
 
